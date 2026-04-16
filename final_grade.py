@@ -3,15 +3,14 @@
 # Author: Kaweny Ezidio
 
 
-final_grade:0
-n=0
+final_grade: 0
 m = int(input("How many assignments did you complete? "))
-m = n
+n = m
+grades_sum = 0
 while n!= 0:
 	grade =float(input("Enter grade: "))
-	final_grade = final_grade + grade
-	n-1
+	grades_sum = grades_sum + grade
+	n=n-1
 
-final_grade=final_grade/m
+final_grade = grades_sum/m
 print("Your final grade is :",final_grade)
-
