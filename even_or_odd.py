@@ -10,11 +10,11 @@ y=(x%2)
 
 #if remainder is equal to 0 then number is even
 if(y==0):
-        print("THE NUMBER ", x," is EVEN!")
+        print("NUMBER ", x," is EVEN!")
         
   #else, the number is odd
 else:
-        print("THE NUMBER ", x,"is ODD!")
+        print("NUMBER ", x,"is ODD!")
 
 
 
