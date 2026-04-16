@@ -1,6 +1,7 @@
 #This program demonstrates how to solve a quadratic equation using the quadratic formula.
 #It uses if statements to handle different cases based on the discriminant and float 
 #values to ensure accurate calculations. The program helps find the real roots. 
+# Author: Kaweny Ezidio
 
 
 import math
