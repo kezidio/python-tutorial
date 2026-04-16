@@ -1,8 +1,8 @@
 
 
 
-list_of_sentences = [['Today', 'is', 'a', 'good', 'day.'], \
-                     ['Apples', 'are', 'my', 'favorite', 'fruit.']]
+list_of_sentences = [['I thibk', ' today is', 'a really', 'good', 'day.'], \
+                     ['Apples might not', 'be my', 'favorite', 'fruit.']]
 
 def join_sentence(list_of_sentences, index):
     sentence = " ".join(list_of_sentences[index])
