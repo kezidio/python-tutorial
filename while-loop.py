@@ -12,7 +12,7 @@ result= 0
 number_to_be_added = 1
 
  #while used enter number different than zero
-while valor != 0:
+while number_to_be_added != 0:
 	#ask user for a number
 	number_to_be_added = int(input("Enter number:"))
 	#calculate the sum 
