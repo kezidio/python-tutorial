@@ -6,7 +6,7 @@
 import random
 
 def main():
-    # Get a random number.
+    # Get a random number from 1 to 10.
     number = random.randint(1, 10)
     # Display the number.
     print('The number is', number)
