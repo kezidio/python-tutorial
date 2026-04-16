@@ -27,7 +27,7 @@ else:
     #if previous conditions are false, there two real solutions and they will be displayed in this last statement
     else:
         root_1=(-b+math.sqrt(D))/(2 * a)
-        root_2=(-b-math.sqrt(D)/(2 * a)
+        root_2=(-b-math.sqrt(D))/(2 * a)
         if(root_1<root_2):
                 print("The roots are ",root_1," and ",root_2)
         else:
