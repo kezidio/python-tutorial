@@ -1,8 +1,10 @@
 #A simple program that asks user to enter their grade and
 #calculates the final grade usinf a while loop
+# Author: Kaweny Ezidio
 
 
 final_grade:0
+n=0
 m = int(input("How many assignments did you complete? "))
 m = n
 while n!= 0:
